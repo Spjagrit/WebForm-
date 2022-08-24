@@ -32,3 +32,6 @@ This project explains about how to use JsonPowerDB in Webpages and for performin
 
 ### Screenshots:-
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/97080055/186488241-290e5011-20de-4152-9692-91693ab2058d.png">
+
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/97080055/186490868-546bbd9d-f213-4126-abc2-768d3003069f.png">
+
