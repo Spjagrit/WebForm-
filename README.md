@@ -32,7 +32,8 @@ This project explains about how to use JsonPowerDB in Webpages and for performin
 
 ### Screenshots:-
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/97080055/186488241-290e5011-20de-4152-9692-91693ab2058d.png">
-## Project Overview:-
+
+### Project Overview:-
 
 This is a project made in netbeans using the concept of Javascript,JQuery,Html and with the utilization of JsonPowerDB for sending API Requests and carrying out certain HTTP operations and all the crud operations are performed in this project.
 
