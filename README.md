@@ -5,7 +5,7 @@ JsonPowerDB is a Database Server with Developer friendly REST API services. It's
 
 ## Title of the Project:- Webform Example
 ### DESCRIPTION:-
-This project explains about how to use JsonPowerDB in Webpages and for performing CRUDE operations.
+This project explains about how to use JsonPowerDB in Webpages and for performing CRUD operations.
 
 #### Benefits of using JsonPowerDB:-
 - Nimble,Simple to use,In Memory,Real-time.
@@ -32,6 +32,19 @@ This project explains about how to use JsonPowerDB in Webpages and for performin
 
 ### Screenshots:-
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/97080055/186488241-290e5011-20de-4152-9692-91693ab2058d.png">
+# Project Overview:-
+This is a project made in netbeans using the concept of Javascript,JQuery,Html and with the utilization of JsonPowerDB for sending API Requests and carrying out certain HTTP operations and all the crud operations are performed in this project.
+
+## Table of contents:-
 
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/97080055/186490868-546bbd9d-f213-4126-abc2-768d3003069f.png">
+
+## Deployment Screenshots:-
+
+<img width="1340" alt="image" src="https://user-images.githubusercontent.com/97080055/186493591-cdf1b1f6-5ef3-4443-bc55-20d92c870cfa.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/97080055/186493760-e56898b7-0947-44ad-a220-3138b264f603.png">
+
+
+
+
 
