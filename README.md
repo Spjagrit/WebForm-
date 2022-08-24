@@ -8,16 +8,16 @@ JsonPowerDB is a Database Server with Developer friendly REST API services. It's
 This project explains about how to use JsonPowerDB in Webpages and for performing CRUDE operations.
 
 #### Benefits of using JsonPowerDB:-
-*1-> Nimble,Simple to use,In Memory,Real-time.
-*2-> Schema Free-easy to maintain.
-*3-> Serverless support-fast development-cut time to market.
-*4-> Multi-mode database-one solution to variety of data.
-*5-> Build around worlds fastest indexing engine PowerIndex.
-*6-> Webservices API-low development cost.
-*7-> A single instance - million indexes.
-*8-> Inbuilt support for Querying Multiple Databases.
-*9-> Multiple security layers.
-*10-> Server side native no SQL-best performance. 
+- Nimble,Simple to use,In Memory,Real-time.
+- Schema Free-easy to maintain.
+- Serverless support-fast development-cut time to market.
+- Multi-mode database-one solution to variety of data.
+- Build around worlds fastest indexing engine PowerIndex.
+- Webservices API-low development cost.
+- A single instance - million indexes.
+- Inbuilt support for Querying Multiple Databases.
+- Multiple security layers.
+- Server side native no SQL-best performance. 
 
 #### Use-cases:-
 1-> Any software application that needs backened database.
