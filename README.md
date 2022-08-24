@@ -20,15 +20,15 @@ This project explains about how to use JsonPowerDB in Webpages and for performin
 - Server side native no SQL-best performance. 
 
 #### Use-cases:-
-1-> Any software application that needs backened database.
+- Any software application that needs backened database.
            - Dynamic web applications/mobile/desktop app.
-2-> All RDBMS use-cases.
-3-> All DocumentDB use-cases.
-4-> All key-valueDB use-cases.
-5-> Use-cases that needs Geospatial/Time series Analytics.
-6-> Best suited to real time application for data analytics.
-7-> Improve existing application reporting /analytics performance.
-8-> live working HTML templates.
+- All RDBMS use-cases.
+- All DocumentDB use-cases.
+- All key-valueDB use-cases.
+- Use-cases that needs Geospatial/Time series Analytics.
+- Best suited to real time application for data analytics.
+- Improve existing application reporting /analytics performance.
+- live working HTML templates.
 
 ### Screenshots:-
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/97080055/186488241-290e5011-20de-4152-9692-91693ab2058d.png">
